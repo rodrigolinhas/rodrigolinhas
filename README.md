@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">My name is Rodrigo and I'm currently studying Computer Science at UALG Universty.</h3>
+<h3 align="left">My name is Rodrigo and I'm currently studying Computer Engineering at UALG University.</h3>
 
 ###
 
