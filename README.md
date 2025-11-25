@@ -1,25 +1,23 @@
 ###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigolinhas.rodrigolinhas&"  />
 </div>
 
 ###
 
+###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%8B%20Hello%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 <br clear="both">
 
-<h1 align="center">Hello World!</h1>
+###
+
+<h3 align="center">My name is Rodrigo and I'm currently studying Computer Engineering at UALG University.</h3>
 
 ###
 
-<h3 align="left">My name is Rodrigo and I'm currently studying Computer Engineering at UALG University.</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigolinhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -31,7 +29,9 @@
 
 ###
 
-<div align="left">
+<h4 align="center">The languages I've used</h4>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -45,7 +45,8 @@
 
 ###
 
-<div align="left">
+<h4 align="center">My socials</h4>
+<div align="center">
   <a href="https://www.linkedin.com/in/rodrigolinhas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -54,7 +55,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/rodrigolinhas/rodrigolinhas/output/snake.svg" alt="Snake animation" />
 
 ###
