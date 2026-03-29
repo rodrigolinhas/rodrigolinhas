@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="center">My name is Rodrigo and I'm currently studying Computer Engineering at UALG University.</h3>
+<h3 align="center">My name is Rodrigo and I'm currently studying Computer Engineering @ UALG University.</h3>
 
 ###
 
