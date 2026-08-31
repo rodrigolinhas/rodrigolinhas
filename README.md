@@ -1,82 +1,107 @@
-###
+<h1 align="center">Hi, I'm Rodrigo Linhas 👋</h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rodrigolinhas.rodrigolinhas&"  />
-</div>
+<h3 align="center">
+  Computer Engineering Student · Software Engineering · Frontend Development
+</h3>
 
-###
-
-###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9F%91%8B%20Hello%20World&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-<br clear="both">
-
-###
-
-<h3 align="center">My name is Rodrigo and I'm currently studying Computer Engineering @ UALG University.</h3>
-
-###
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigolinhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigolinhas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rodrigolinhas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=rodrigolinhas&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigolinhas&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h4 align="center">The languages I've used</h4>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
-
-###
-
-<h4 align="center">My socials</h4>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rodrigolinhas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigolinhas/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Linhas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/rodrigolinhas/rodrigolinhas/output/snake.svg" alt="Snake animation" />
+## About me
 
-###
+I'm a Computer Engineering student at the University of Algarve focused on
+**software engineering, frontend development and building user-focused products**.
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-<!-- rodrigo-linhas-55a326360 ->
+I particularly enjoy working with **React, TypeScript and Go**, collaborative
+development, Agile workflows and turning ideas into working software.
 
-###
+I'm currently looking for a **Junior Software Engineer / Frontend Developer**
+opportunity where I can contribute to real products while continuing to grow as an engineer.
 
-<!--
-**rodrigolinhas/rodrigolinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Data OS
+
+A self-hosted personal analytics platform designed to bring together data from
+different areas of life, including sleep, workouts, reading, habits and developer activity.
+
+**Stack:** Go · PostgreSQL · React · TypeScript · Docker · OpenAPI · GitHub Actions
+
+[View repository →](https://github.com/rodrigolinhas/personal-data-os)
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,go,nodejs,postgres,docker,git,linux,java" />
+</p>
+
+<p align="center">
+  React · TypeScript · Go · Node.js · PostgreSQL · Docker · Git · Linux · Java
+</p>
+
+---
+
+## Selected projects
+
+### Scientific Event Management System
+
+Full-stack platform developed collaboratively for managing scientific events,
+with a strong focus on frontend development, APIs and team-based software engineering.
+
+**React · TypeScript · Go · Docker · SQLite · GitHub Actions**
+
+[View repository →](https://github.com/rodrigolinhas/PROJ-LES)
+
+---
+
+### MindSpace
+
+Full-stack web application for emotional well-being tracking, featuring a
+React frontend and a TypeScript/Node.js backend.
+
+**React · TypeScript · Node.js · Express · SQLite**
+
+[View repository →](https://github.com/rodrigolinhas/mindspace)
+
+---
+
+### Olhanense Compiler & Virtual Machine
+
+A custom programming language implemented through a complete compiler pipeline,
+including lexical, syntactic and semantic analysis, bytecode generation and a
+stack-based virtual machine.
+
+**Java · ANTLR**
+
+[View repository →](https://github.com/rodrigolinhas/olhanense-compiler)
+
+---
+
+## Open source
+
+### Bluelearn
+
+Contributed to the Bluelearn open-source platform by implementing a
+**React/TypeScript Guide Edit workflow** inside an existing production codebase.
+
+The contribution included reusable multi-step components, draft persistence
+and review submission functionality.
+
+**Merged upstream:** [PR #189](https://github.com/bluelearn-org/bluelearn/pull/189)
+
+---
+
+<p align="center">
+  <b>Let's connect</b>
+  <br><br>
+  <a href="https://www.linkedin.com/in/rodrigolinhas/">LinkedIn</a>
+</p>
