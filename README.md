@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rodrigo Linhas 👋</h1>
 
 <h3 align="center">
-  Computer Engineering Student · Software Engineering · Frontend Development
+  Computer Engineering Student · Software Engineering · Building Across the Stack
 </h3>
 
 <p align="center">
