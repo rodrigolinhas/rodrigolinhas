@@ -96,7 +96,7 @@ Contributed to the Bluelearn open-source platform by implementing a
 The contribution included reusable multi-step components, draft persistence
 and review submission functionality.
 
-**Merged upstream:** [PR #189](https://github.com/bluelearn-org/bluelearn/pull/189)
+**Merged upstream:** [PR #189](https://github.com/bluelearn-org/bluelearn/pull/189) + [PR #389](https://github.com/bluelearn-org/bluelearn/pull/389)
 
 ---
 
