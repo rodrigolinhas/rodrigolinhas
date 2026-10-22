@@ -94,7 +94,7 @@
 
 I contribute to **[Bluelearn](https://github.com/bluelearn-org/bluelearn)**, working on frontend features, user experience, and API reliability.
 
-[**See all my open-source contributions →**](https://github.com/search?q=is%3Apr+author%3Arodrigolinhas&type=pullrequests)
+[**See all my open-source contributions →**](https://github.com/search?q=is%3Apr+author%3Arodrigolinhas+-user%3Arodrigolinhas&type=pullrequests)
 
 ---
 
